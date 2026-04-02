@@ -1,0 +1,32 @@
+.button-container-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-container {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 8px;
+}
+
+.control-button {
+    background-color: rgb(68, 127, 214);
+    border-radius: 10px;
+    font-size: 1.2rem;
+    border: 2px solid rgb(219, 160, 84);
+    color: black;
+    font-weight: 400;
+}
+
+.algorithm-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    /* border: 1px solid white; */
+}
+
+.slider {
+    display: flex;
+    flex-direction: column;
+}

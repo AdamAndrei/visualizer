@@ -1,0 +1,13 @@
+.array-display {
+    display: flex;
+    flex: 1;
+    align-items: flex-end;
+    gap: 6px;
+    height: 300px;
+    color: black;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 5px;
+    border-radius: 10px;
+    border: 1px solid white;
+}

@@ -1,0 +1,41 @@
+.bar {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+    border-color: aliceblue;
+}
+
+.default {
+    background-color: aqua;
+}
+
+.comparing {
+    background-color: brown;
+}
+
+.sorted {
+    background-color: green;
+}
+
+.pivot {
+    background-color: yellow;
+}
+
+.swapping {
+    background-color: coral;
+}
+
+/* .region-default {
+
+} */
+
+.region-active {
+    box-shadow: 8px -2px 8px rgba(255, 255, 255, 0.3);}
+
+/* .region-inactive {
+
+} */
+
+.region-sorted {
+    /* box-shadow: 8px 0px 8px rgba(255, 255, 255, 0.4); */
+    box-shadow: 8px -2px 8px rgba(255, 255, 255, 0.8);
+}
